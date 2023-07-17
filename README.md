@@ -1,6 +1,6 @@
 # TITLE : JOSAA Data Analysis Portal
 
-This project aims to develop a web portal for exploring JOSAA (Joint Seat Allocation Authority) seat allotment statistics. The portal utilizes Python web scraping libraries to extract data from the JOSAA website. The data is then cleaned using NumPy and Pandas, and a database is created for efficient querying and analysis. The portal presents insightful observations through Exploratory Data Analysis (EDA) using Matplotlib and Seaborn. Interactive charts and tables are used to visualize trends such as branch opening and closing, as well as gender flow among IITs.
+This project aims to develop a web portal for exploring JOSAA (Joint Seat Allocation Authority) seat allotment statistics. The portal utilizes Python web scraping libraries to extract data from the JOSAA website. The data is then cleaned using NumPy and Pandas, and a database is created for efficient querying and analysis. The portal presents insightful observations through Exploratory Data Analysis (EDA) using Matplotlib and Seaborn. Interactive charts and tables are used to visualize trends such as branch opening and closing, as well as gender flow among IITs etc.
 
 ## Project Overview
 
